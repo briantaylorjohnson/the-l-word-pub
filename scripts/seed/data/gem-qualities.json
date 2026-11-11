@@ -1,0 +1,1442 @@
+[
+  {
+    "itemId": 22459,
+    "quality": "Epic",
+    "name": "Void Sphere",
+    "color": "Prismatic"
+  },
+  {
+    "itemId": 22460,
+    "quality": "Rare",
+    "name": "Prismatic Sphere",
+    "color": "Prismatic"
+  },
+  {
+    "itemId": 23094,
+    "quality": "Uncommon",
+    "name": "Teardrop Blood Garnet",
+    "color": "Red"
+  },
+  {
+    "itemId": 23095,
+    "quality": "Uncommon",
+    "name": "Bold Blood Garnet",
+    "color": "Red"
+  },
+  {
+    "itemId": 23096,
+    "quality": "Uncommon",
+    "name": "Runed Blood Garnet",
+    "color": "Red"
+  },
+  {
+    "itemId": 23097,
+    "quality": "Uncommon",
+    "name": "Delicate Blood Garnet",
+    "color": "Red"
+  },
+  {
+    "itemId": 23098,
+    "quality": "Uncommon",
+    "name": "Inscribed Flame Spessarite",
+    "color": "Orange"
+  },
+  {
+    "itemId": 23099,
+    "quality": "Uncommon",
+    "name": "Luminous Flame Spessarite",
+    "color": "Orange"
+  },
+  {
+    "itemId": 23100,
+    "quality": "Uncommon",
+    "name": "Glinting Flame Spessarite",
+    "color": "Orange"
+  },
+  {
+    "itemId": 23101,
+    "quality": "Uncommon",
+    "name": "Potent Flame Spessarite",
+    "color": "Orange"
+  },
+  {
+    "itemId": 23103,
+    "quality": "Uncommon",
+    "name": "Radiant Deep Peridot",
+    "color": "Green"
+  },
+  {
+    "itemId": 23104,
+    "quality": "Uncommon",
+    "name": "Jagged Deep Peridot",
+    "color": "Green"
+  },
+  {
+    "itemId": 23105,
+    "quality": "Uncommon",
+    "name": "Enduring Deep Peridot",
+    "color": "Green"
+  },
+  {
+    "itemId": 23106,
+    "quality": "Uncommon",
+    "name": "Dazzling Deep Peridot",
+    "color": "Green"
+  },
+  {
+    "itemId": 23108,
+    "quality": "Uncommon",
+    "name": "Glowing Shadow Draenite",
+    "color": "Purple"
+  },
+  {
+    "itemId": 23109,
+    "quality": "Uncommon",
+    "name": "Royal Shadow Draenite",
+    "color": "Purple"
+  },
+  {
+    "itemId": 23110,
+    "quality": "Uncommon",
+    "name": "Shifting Shadow Draenite",
+    "color": "Purple"
+  },
+  {
+    "itemId": 23111,
+    "quality": "Uncommon",
+    "name": "Sovereign Shadow Draenite",
+    "color": "Purple"
+  },
+  {
+    "itemId": 23113,
+    "quality": "Uncommon",
+    "name": "Brilliant Golden Draenite",
+    "color": "Yellow"
+  },
+  {
+    "itemId": 23114,
+    "quality": "Uncommon",
+    "name": "Gleaming Golden Draenite",
+    "color": "Yellow"
+  },
+  {
+    "itemId": 23115,
+    "quality": "Uncommon",
+    "name": "Thick Golden Draenite",
+    "color": "Yellow"
+  },
+  {
+    "itemId": 23116,
+    "quality": "Uncommon",
+    "name": "Rigid Golden Draenite",
+    "color": "Yellow"
+  },
+  {
+    "itemId": 23118,
+    "quality": "Uncommon",
+    "name": "Solid Azure Moonstone",
+    "color": "Blue"
+  },
+  {
+    "itemId": 23119,
+    "quality": "Uncommon",
+    "name": "Sparkling Azure Moonstone",
+    "color": "Blue"
+  },
+  {
+    "itemId": 23120,
+    "quality": "Uncommon",
+    "name": "Stormy Azure Moonstone",
+    "color": "Blue"
+  },
+  {
+    "itemId": 23121,
+    "quality": "Uncommon",
+    "name": "Lustrous Azure Moonstone",
+    "color": "Blue"
+  },
+  {
+    "itemId": 24027,
+    "quality": "Rare",
+    "name": "Bold Living Ruby",
+    "color": "Red"
+  },
+  {
+    "itemId": 24028,
+    "quality": "Rare",
+    "name": "Delicate Living Ruby",
+    "color": "Red"
+  },
+  {
+    "itemId": 24029,
+    "quality": "Rare",
+    "name": "Teardrop Living Ruby",
+    "color": "Red"
+  },
+  {
+    "itemId": 24030,
+    "quality": "Rare",
+    "name": "Runed Living Ruby",
+    "color": "Red"
+  },
+  {
+    "itemId": 24031,
+    "quality": "Rare",
+    "name": "Bright Living Ruby",
+    "color": "Red"
+  },
+  {
+    "itemId": 24032,
+    "quality": "Rare",
+    "name": "Subtle Living Ruby",
+    "color": "Red"
+  },
+  {
+    "itemId": 24033,
+    "quality": "Rare",
+    "name": "Solid Star of Elune",
+    "color": "Blue"
+  },
+  {
+    "itemId": 24035,
+    "quality": "Rare",
+    "name": "Sparkling Star of Elune",
+    "color": "Blue"
+  },
+  {
+    "itemId": 24036,
+    "quality": "Rare",
+    "name": "Flashing Living Ruby",
+    "color": "Red"
+  },
+  {
+    "itemId": 24037,
+    "quality": "Rare",
+    "name": "Lustrous Star of Elune",
+    "color": "Blue"
+  },
+  {
+    "itemId": 24039,
+    "quality": "Rare",
+    "name": "Stormy Star of Elune",
+    "color": "Blue"
+  },
+  {
+    "itemId": 24047,
+    "quality": "Rare",
+    "name": "Brilliant Dawnstone",
+    "color": "Yellow"
+  },
+  {
+    "itemId": 24048,
+    "quality": "Rare",
+    "name": "Smooth Dawnstone",
+    "color": "Yellow"
+  },
+  {
+    "itemId": 24050,
+    "quality": "Rare",
+    "name": "Gleaming Dawnstone",
+    "color": "Yellow"
+  },
+  {
+    "itemId": 24051,
+    "quality": "Rare",
+    "name": "Rigid Dawnstone",
+    "color": "Yellow"
+  },
+  {
+    "itemId": 24052,
+    "quality": "Rare",
+    "name": "Thick Dawnstone",
+    "color": "Yellow"
+  },
+  {
+    "itemId": 24053,
+    "quality": "Rare",
+    "name": "Mystic Dawnstone",
+    "color": "Yellow"
+  },
+  {
+    "itemId": 24054,
+    "quality": "Rare",
+    "name": "Sovereign Nightseye",
+    "color": "Purple"
+  },
+  {
+    "itemId": 24055,
+    "quality": "Rare",
+    "name": "Shifting Nightseye",
+    "color": "Purple"
+  },
+  {
+    "itemId": 24056,
+    "quality": "Rare",
+    "name": "Glowing Nightseye",
+    "color": "Purple"
+  },
+  {
+    "itemId": 24057,
+    "quality": "Rare",
+    "name": "Royal Nightseye",
+    "color": "Purple"
+  },
+  {
+    "itemId": 24058,
+    "quality": "Rare",
+    "name": "Inscribed Noble Topaz",
+    "color": "Orange"
+  },
+  {
+    "itemId": 24059,
+    "quality": "Rare",
+    "name": "Potent Noble Topaz",
+    "color": "Orange"
+  },
+  {
+    "itemId": 24060,
+    "quality": "Rare",
+    "name": "Luminous Noble Topaz",
+    "color": "Orange"
+  },
+  {
+    "itemId": 24061,
+    "quality": "Rare",
+    "name": "Glinting Noble Topaz",
+    "color": "Orange"
+  },
+  {
+    "itemId": 24062,
+    "quality": "Rare",
+    "name": "Enduring Talasite",
+    "color": "Green"
+  },
+  {
+    "itemId": 24065,
+    "quality": "Rare",
+    "name": "Dazzling Talasite",
+    "color": "Green"
+  },
+  {
+    "itemId": 24066,
+    "quality": "Rare",
+    "name": "Radiant Talasite",
+    "color": "Green"
+  },
+  {
+    "itemId": 24067,
+    "quality": "Rare",
+    "name": "Jagged Talasite",
+    "color": "Green"
+  },
+  {
+    "itemId": 25890,
+    "quality": "Rare",
+    "name": "Destructive Skyfire Diamond",
+    "color": "Meta"
+  },
+  {
+    "itemId": 25893,
+    "quality": "Rare",
+    "name": "Mystical Skyfire Diamond",
+    "color": "Meta"
+  },
+  {
+    "itemId": 25894,
+    "quality": "Rare",
+    "name": "Swift Skyfire Diamond",
+    "color": "Meta"
+  },
+  {
+    "itemId": 25895,
+    "quality": "Rare",
+    "name": "Enigmatic Skyfire Diamond",
+    "color": "Meta"
+  },
+  {
+    "itemId": 25896,
+    "quality": "Rare",
+    "name": "Powerful Earthstorm Diamond",
+    "color": "Meta"
+  },
+  {
+    "itemId": 25897,
+    "quality": "Rare",
+    "name": "Bracing Earthstorm Diamond",
+    "color": "Meta"
+  },
+  {
+    "itemId": 25898,
+    "quality": "Rare",
+    "name": "Tenacious Earthstorm Diamond",
+    "color": "Meta"
+  },
+  {
+    "itemId": 25899,
+    "quality": "Rare",
+    "name": "Brutal Earthstorm Diamond",
+    "color": "Meta"
+  },
+  {
+    "itemId": 25901,
+    "quality": "Rare",
+    "name": "Insightful Earthstorm Diamond",
+    "color": "Meta"
+  },
+  {
+    "itemId": 27679,
+    "quality": "Epic",
+    "name": "Sublime Mystic Dawnstone",
+    "color": "Yellow"
+  },
+  {
+    "itemId": 27777,
+    "quality": "Rare",
+    "name": "Stark Blood Garnet",
+    "color": "Red"
+  },
+  {
+    "itemId": 27785,
+    "quality": "Rare",
+    "name": "Notched Deep Peridot",
+    "color": "Green"
+  },
+  {
+    "itemId": 27786,
+    "quality": "Rare",
+    "name": "Barbed Deep Peridot",
+    "color": "Green"
+  },
+  {
+    "itemId": 27809,
+    "quality": "Rare",
+    "name": "Barbed Deep Peridot",
+    "color": "Green"
+  },
+  {
+    "itemId": 27812,
+    "quality": "Rare",
+    "name": "Stark Blood Garnet",
+    "color": "Red"
+  },
+  {
+    "itemId": 27820,
+    "quality": "Rare",
+    "name": "Notched Deep Peridot",
+    "color": "Green"
+  },
+  {
+    "itemId": 28118,
+    "quality": "Epic",
+    "name": "Runed Ornate Ruby",
+    "color": "Red"
+  },
+  {
+    "itemId": 28119,
+    "quality": "Epic",
+    "name": "Smooth Ornate Dawnstone",
+    "color": "Yellow"
+  },
+  {
+    "itemId": 28120,
+    "quality": "Epic",
+    "name": "Gleaming Ornate Dawnstone",
+    "color": "Yellow"
+  },
+  {
+    "itemId": 28123,
+    "quality": "Epic",
+    "name": "Potent Ornate Topaz",
+    "color": "Orange"
+  },
+  {
+    "itemId": 28290,
+    "quality": "Uncommon",
+    "name": "Smooth Golden Draenite",
+    "color": "Yellow"
+  },
+  {
+    "itemId": 28360,
+    "quality": "Rare",
+    "name": "Mighty Blood Garnet",
+    "color": "Red"
+  },
+  {
+    "itemId": 28361,
+    "quality": "Rare",
+    "name": "Mighty Blood Garnet",
+    "color": "Red"
+  },
+  {
+    "itemId": 28362,
+    "quality": "Epic",
+    "name": "Bold Ornate Ruby",
+    "color": "Red"
+  },
+  {
+    "itemId": 28363,
+    "quality": "Epic",
+    "name": "Inscribed Ornate Topaz",
+    "color": "Orange"
+  },
+  {
+    "itemId": 28458,
+    "quality": "Common",
+    "name": "Bold Tourmaline",
+    "color": null
+  },
+  {
+    "itemId": 28459,
+    "quality": "Common",
+    "name": "Delicate Tourmaline",
+    "color": null
+  },
+  {
+    "itemId": 28460,
+    "quality": "Common",
+    "name": "Teardrop Tourmaline",
+    "color": null
+  },
+  {
+    "itemId": 28461,
+    "quality": "Common",
+    "name": "Runed Tourmaline",
+    "color": null
+  },
+  {
+    "itemId": 28462,
+    "quality": "Common",
+    "name": "Bright Tourmaline",
+    "color": null
+  },
+  {
+    "itemId": 28463,
+    "quality": "Common",
+    "name": "Solid Zircon",
+    "color": null
+  },
+  {
+    "itemId": 28464,
+    "quality": "Common",
+    "name": "Sparkling Zircon",
+    "color": null
+  },
+  {
+    "itemId": 28465,
+    "quality": "Common",
+    "name": "Lustrous Zircon",
+    "color": null
+  },
+  {
+    "itemId": 28466,
+    "quality": "Common",
+    "name": "Brilliant Amber",
+    "color": null
+  },
+  {
+    "itemId": 28467,
+    "quality": "Common",
+    "name": "Smooth Amber",
+    "color": null
+  },
+  {
+    "itemId": 28468,
+    "quality": "Common",
+    "name": "Rigid Amber",
+    "color": null
+  },
+  {
+    "itemId": 28469,
+    "quality": "Common",
+    "name": "Gleaming Amber",
+    "color": null
+  },
+  {
+    "itemId": 28470,
+    "quality": "Common",
+    "name": "Thick Amber",
+    "color": null
+  },
+  {
+    "itemId": 28556,
+    "quality": "Rare",
+    "name": "Swift Windfire Diamond",
+    "color": "Meta"
+  },
+  {
+    "itemId": 28557,
+    "quality": "Rare",
+    "name": "Swift Starfire Diamond",
+    "color": "Meta"
+  },
+  {
+    "itemId": 28595,
+    "quality": "Uncommon",
+    "name": "Bright Blood Garnet",
+    "color": "Red"
+  },
+  {
+    "itemId": 30546,
+    "quality": "Epic",
+    "name": "Sovereign Tanzanite",
+    "color": "Purple"
+  },
+  {
+    "itemId": 30547,
+    "quality": "Epic",
+    "name": "Luminous Fire Opal",
+    "color": "Orange"
+  },
+  {
+    "itemId": 30548,
+    "quality": "Epic",
+    "name": "Polished Chrysoprase",
+    "color": "Green"
+  },
+  {
+    "itemId": 30549,
+    "quality": "Epic",
+    "name": "Shifting Tanzanite",
+    "color": "Purple"
+  },
+  {
+    "itemId": 30550,
+    "quality": "Epic",
+    "name": "Sundered Chrysoprase",
+    "color": "Green"
+  },
+  {
+    "itemId": 30551,
+    "quality": "Epic",
+    "name": "Infused Fire Opal",
+    "color": "Orange"
+  },
+  {
+    "itemId": 30552,
+    "quality": "Epic",
+    "name": "Blessed Tanzanite",
+    "color": "Purple"
+  },
+  {
+    "itemId": 30553,
+    "quality": "Epic",
+    "name": "Pristine Fire Opal",
+    "color": "Orange"
+  },
+  {
+    "itemId": 30554,
+    "quality": "Epic",
+    "name": "Stalwart Fire Opal",
+    "color": "Orange"
+  },
+  {
+    "itemId": 30555,
+    "quality": "Epic",
+    "name": "Glowing Tanzanite",
+    "color": "Purple"
+  },
+  {
+    "itemId": 30556,
+    "quality": "Epic",
+    "name": "Glinting Fire Opal",
+    "color": "Orange"
+  },
+  {
+    "itemId": 30558,
+    "quality": "Epic",
+    "name": "Glimmering Fire Opal",
+    "color": "Orange"
+  },
+  {
+    "itemId": 30559,
+    "quality": "Epic",
+    "name": "Etched Fire Opal",
+    "color": "Orange"
+  },
+  {
+    "itemId": 30560,
+    "quality": "Epic",
+    "name": "Rune Covered Chrysoprase",
+    "color": "Green"
+  },
+  {
+    "itemId": 30563,
+    "quality": "Epic",
+    "name": "Regal Tanzanite",
+    "color": "Purple"
+  },
+  {
+    "itemId": 30564,
+    "quality": "Epic",
+    "name": "Shining Fire Opal",
+    "color": "Orange"
+  },
+  {
+    "itemId": 30565,
+    "quality": "Epic",
+    "name": "Assassin's Fire Opal",
+    "color": "Orange"
+  },
+  {
+    "itemId": 30566,
+    "quality": "Epic",
+    "name": "Defender's Tanzanite",
+    "color": "Purple"
+  },
+  {
+    "itemId": 30571,
+    "quality": "Rare",
+    "name": "Don Rodrigo's Heart",
+    "color": "Red"
+  },
+  {
+    "itemId": 30572,
+    "quality": "Epic",
+    "name": "Imperial Tanzanite",
+    "color": "Purple"
+  },
+  {
+    "itemId": 30573,
+    "quality": "Epic",
+    "name": "Mysterious Fire Opal",
+    "color": "Orange"
+  },
+  {
+    "itemId": 30574,
+    "quality": "Epic",
+    "name": "Brutal Tanzanite",
+    "color": "Purple"
+  },
+  {
+    "itemId": 30575,
+    "quality": "Epic",
+    "name": "Nimble Fire Opal",
+    "color": "Orange"
+  },
+  {
+    "itemId": 30581,
+    "quality": "Epic",
+    "name": "Durable Fire Opal",
+    "color": "Orange"
+  },
+  {
+    "itemId": 30582,
+    "quality": "Epic",
+    "name": "Deadly Fire Opal",
+    "color": "Orange"
+  },
+  {
+    "itemId": 30583,
+    "quality": "Epic",
+    "name": "Timeless Chrysoprase",
+    "color": "Green"
+  },
+  {
+    "itemId": 30584,
+    "quality": "Epic",
+    "name": "Enscribed Fire Opal",
+    "color": "Orange"
+  },
+  {
+    "itemId": 30585,
+    "quality": "Epic",
+    "name": "Glistening Fire Opal",
+    "color": "Orange"
+  },
+  {
+    "itemId": 30586,
+    "quality": "Epic",
+    "name": "Seer's Chrysoprase",
+    "color": "Green"
+  },
+  {
+    "itemId": 30587,
+    "quality": "Epic",
+    "name": "Champion's Fire Opal",
+    "color": "Orange"
+  },
+  {
+    "itemId": 30588,
+    "quality": "Epic",
+    "name": "Potent Fire Opal",
+    "color": "Orange"
+  },
+  {
+    "itemId": 30589,
+    "quality": "Epic",
+    "name": "Dazzling Chrysoprase",
+    "color": "Green"
+  },
+  {
+    "itemId": 30590,
+    "quality": "Epic",
+    "name": "Enduring Chrysoprase",
+    "color": "Green"
+  },
+  {
+    "itemId": 30591,
+    "quality": "Epic",
+    "name": "Empowered Fire Opal",
+    "color": "Orange"
+  },
+  {
+    "itemId": 30592,
+    "quality": "Epic",
+    "name": "Steady Chrysoprase",
+    "color": "Green"
+  },
+  {
+    "itemId": 30593,
+    "quality": "Epic",
+    "name": "Iridescent Fire Opal",
+    "color": "Orange"
+  },
+  {
+    "itemId": 30594,
+    "quality": "Epic",
+    "name": "Effulgent Chrysoprase",
+    "color": "Green"
+  },
+  {
+    "itemId": 30598,
+    "quality": "Rare",
+    "name": "Don Amancio's Heart",
+    "color": "Red"
+  },
+  {
+    "itemId": 30600,
+    "quality": "Epic",
+    "name": "Fluorescent Tanzanite",
+    "color": "Purple"
+  },
+  {
+    "itemId": 30601,
+    "quality": "Epic",
+    "name": "Beaming Fire Opal",
+    "color": "Orange"
+  },
+  {
+    "itemId": 30602,
+    "quality": "Epic",
+    "name": "Jagged Chrysoprase",
+    "color": "Green"
+  },
+  {
+    "itemId": 30603,
+    "quality": "Epic",
+    "name": "Royal Tanzanite",
+    "color": "Purple"
+  },
+  {
+    "itemId": 30604,
+    "quality": "Epic",
+    "name": "Resplendent Fire Opal",
+    "color": "Orange"
+  },
+  {
+    "itemId": 30605,
+    "quality": "Epic",
+    "name": "Vivid Chrysoprase",
+    "color": "Green"
+  },
+  {
+    "itemId": 30606,
+    "quality": "Epic",
+    "name": "Lambent Chrysoprase",
+    "color": "Green"
+  },
+  {
+    "itemId": 30607,
+    "quality": "Epic",
+    "name": "Splendid Fire Opal",
+    "color": "Orange"
+  },
+  {
+    "itemId": 30608,
+    "quality": "Epic",
+    "name": "Radiant Chrysoprase",
+    "color": "Green"
+  },
+  {
+    "itemId": 31116,
+    "quality": "Epic",
+    "name": "Infused Amethyst",
+    "color": "Purple"
+  },
+  {
+    "itemId": 31117,
+    "quality": "Epic",
+    "name": "Soothing Amethyst",
+    "color": "Purple"
+  },
+  {
+    "itemId": 31118,
+    "quality": "Epic",
+    "name": "Pulsing Amethyst",
+    "color": "Purple"
+  },
+  {
+    "itemId": 31860,
+    "quality": "Uncommon",
+    "name": "Great Golden Draenite",
+    "color": "Yellow"
+  },
+  {
+    "itemId": 31861,
+    "quality": "Rare",
+    "name": "Great Dawnstone",
+    "color": "Yellow"
+  },
+  {
+    "itemId": 31862,
+    "quality": "Uncommon",
+    "name": "Balanced Shadow Draenite",
+    "color": "Purple"
+  },
+  {
+    "itemId": 31863,
+    "quality": "Rare",
+    "name": "Balanced Nightseye",
+    "color": "Purple"
+  },
+  {
+    "itemId": 31864,
+    "quality": "Uncommon",
+    "name": "Infused Shadow Draenite",
+    "color": "Purple"
+  },
+  {
+    "itemId": 31865,
+    "quality": "Rare",
+    "name": "Infused Nightseye",
+    "color": "Purple"
+  },
+  {
+    "itemId": 31866,
+    "quality": "Uncommon",
+    "name": "Veiled Flame Spessarite",
+    "color": "Orange"
+  },
+  {
+    "itemId": 31867,
+    "quality": "Rare",
+    "name": "Veiled Noble Topaz",
+    "color": "Orange"
+  },
+  {
+    "itemId": 31868,
+    "quality": "Rare",
+    "name": "Wicked Noble Topaz",
+    "color": "Orange"
+  },
+  {
+    "itemId": 31869,
+    "quality": "Uncommon",
+    "name": "Wicked Flame Spessarite",
+    "color": "Orange"
+  },
+  {
+    "itemId": 32193,
+    "quality": "Epic",
+    "name": "Bold Crimson Spinel",
+    "color": "Red"
+  },
+  {
+    "itemId": 32194,
+    "quality": "Epic",
+    "name": "Delicate Crimson Spinel",
+    "color": "Red"
+  },
+  {
+    "itemId": 32195,
+    "quality": "Epic",
+    "name": "Teardrop Crimson Spinel",
+    "color": "Red"
+  },
+  {
+    "itemId": 32196,
+    "quality": "Epic",
+    "name": "Runed Crimson Spinel",
+    "color": "Red"
+  },
+  {
+    "itemId": 32197,
+    "quality": "Epic",
+    "name": "Bright Crimson Spinel",
+    "color": "Red"
+  },
+  {
+    "itemId": 32198,
+    "quality": "Epic",
+    "name": "Subtle Crimson Spinel",
+    "color": "Red"
+  },
+  {
+    "itemId": 32199,
+    "quality": "Epic",
+    "name": "Flashing Crimson Spinel",
+    "color": "Red"
+  },
+  {
+    "itemId": 32200,
+    "quality": "Epic",
+    "name": "Solid Empyrean Sapphire",
+    "color": "Blue"
+  },
+  {
+    "itemId": 32201,
+    "quality": "Epic",
+    "name": "Sparkling Empyrean Sapphire",
+    "color": "Blue"
+  },
+  {
+    "itemId": 32202,
+    "quality": "Epic",
+    "name": "Lustrous Empyrean Sapphire",
+    "color": "Blue"
+  },
+  {
+    "itemId": 32203,
+    "quality": "Epic",
+    "name": "Stormy Empyrean Sapphire",
+    "color": "Blue"
+  },
+  {
+    "itemId": 32204,
+    "quality": "Epic",
+    "name": "Brilliant Lionseye",
+    "color": "Yellow"
+  },
+  {
+    "itemId": 32205,
+    "quality": "Epic",
+    "name": "Smooth Lionseye",
+    "color": "Yellow"
+  },
+  {
+    "itemId": 32206,
+    "quality": "Epic",
+    "name": "Rigid Lionseye",
+    "color": "Yellow"
+  },
+  {
+    "itemId": 32207,
+    "quality": "Epic",
+    "name": "Gleaming Lionseye",
+    "color": "Yellow"
+  },
+  {
+    "itemId": 32208,
+    "quality": "Epic",
+    "name": "Thick Lionseye",
+    "color": "Yellow"
+  },
+  {
+    "itemId": 32209,
+    "quality": "Epic",
+    "name": "Mystic Lionseye",
+    "color": "Yellow"
+  },
+  {
+    "itemId": 32210,
+    "quality": "Epic",
+    "name": "Great Lionseye",
+    "color": "Yellow"
+  },
+  {
+    "itemId": 32211,
+    "quality": "Epic",
+    "name": "Sovereign Shadowsong Amethyst",
+    "color": "Purple"
+  },
+  {
+    "itemId": 32212,
+    "quality": "Epic",
+    "name": "Shifting Shadowsong Amethyst",
+    "color": "Purple"
+  },
+  {
+    "itemId": 32213,
+    "quality": "Epic",
+    "name": "Balanced Shadowsong Amethyst",
+    "color": "Purple"
+  },
+  {
+    "itemId": 32214,
+    "quality": "Epic",
+    "name": "Infused Shadowsong Amethyst",
+    "color": "Purple"
+  },
+  {
+    "itemId": 32215,
+    "quality": "Epic",
+    "name": "Glowing Shadowsong Amethyst",
+    "color": "Purple"
+  },
+  {
+    "itemId": 32216,
+    "quality": "Epic",
+    "name": "Royal Shadowsong Amethyst",
+    "color": "Purple"
+  },
+  {
+    "itemId": 32217,
+    "quality": "Epic",
+    "name": "Inscribed Pyrestone",
+    "color": "Orange"
+  },
+  {
+    "itemId": 32218,
+    "quality": "Epic",
+    "name": "Potent Pyrestone",
+    "color": "Orange"
+  },
+  {
+    "itemId": 32219,
+    "quality": "Epic",
+    "name": "Luminous Pyrestone",
+    "color": "Orange"
+  },
+  {
+    "itemId": 32220,
+    "quality": "Epic",
+    "name": "Glinting Pyrestone",
+    "color": "Orange"
+  },
+  {
+    "itemId": 32221,
+    "quality": "Epic",
+    "name": "Veiled Pyrestone",
+    "color": "Orange"
+  },
+  {
+    "itemId": 32222,
+    "quality": "Epic",
+    "name": "Wicked Pyrestone",
+    "color": "Orange"
+  },
+  {
+    "itemId": 32223,
+    "quality": "Epic",
+    "name": "Enduring Seaspray Emerald",
+    "color": "Green"
+  },
+  {
+    "itemId": 32224,
+    "quality": "Epic",
+    "name": "Radiant Seaspray Emerald",
+    "color": "Green"
+  },
+  {
+    "itemId": 32225,
+    "quality": "Epic",
+    "name": "Dazzling Seaspray Emerald",
+    "color": "Green"
+  },
+  {
+    "itemId": 32226,
+    "quality": "Epic",
+    "name": "Jagged Seaspray Emerald",
+    "color": "Green"
+  },
+  {
+    "itemId": 32409,
+    "quality": "Rare",
+    "name": "Relentless Earthstorm Diamond",
+    "color": "Meta"
+  },
+  {
+    "itemId": 32410,
+    "quality": "Rare",
+    "name": "Thundering Skyfire Diamond",
+    "color": "Meta"
+  },
+  {
+    "itemId": 32634,
+    "quality": "Rare",
+    "name": "Unstable Amethyst",
+    "color": "Purple"
+  },
+  {
+    "itemId": 32635,
+    "quality": "Rare",
+    "name": "Unstable Peridot",
+    "color": "Green"
+  },
+  {
+    "itemId": 32636,
+    "quality": "Rare",
+    "name": "Unstable Sapphire",
+    "color": "Purple"
+  },
+  {
+    "itemId": 32637,
+    "quality": "Rare",
+    "name": "Unstable Citrine",
+    "color": "Orange"
+  },
+  {
+    "itemId": 32638,
+    "quality": "Rare",
+    "name": "Unstable Topaz",
+    "color": "Orange"
+  },
+  {
+    "itemId": 32639,
+    "quality": "Rare",
+    "name": "Unstable Talasite",
+    "color": "Green"
+  },
+  {
+    "itemId": 32640,
+    "quality": "Rare",
+    "name": "Potent Unstable Diamond",
+    "color": "Meta"
+  },
+  {
+    "itemId": 32641,
+    "quality": "Rare",
+    "name": "Imbued Unstable Diamond",
+    "color": "Meta"
+  },
+  {
+    "itemId": 32735,
+    "quality": "Epic",
+    "name": "Radiant Spencerite",
+    "color": null
+  },
+  {
+    "itemId": 32833,
+    "quality": "Uncommon",
+    "name": "Purified Jaggal Pearl",
+    "color": "Purple"
+  },
+  {
+    "itemId": 32836,
+    "quality": "Rare",
+    "name": "Purified Shadow Pearl",
+    "color": "Purple"
+  },
+  {
+    "itemId": 33131,
+    "quality": "Epic",
+    "name": "Crimson Sun",
+    "color": "Red"
+  },
+  {
+    "itemId": 33132,
+    "quality": "Epic",
+    "name": "Delicate Fire Ruby",
+    "color": null
+  },
+  {
+    "itemId": 33133,
+    "quality": "Epic",
+    "name": "Don Julio's Heart",
+    "color": "Red"
+  },
+  {
+    "itemId": 33134,
+    "quality": "Epic",
+    "name": "Kailee's Rose",
+    "color": "Red"
+  },
+  {
+    "itemId": 33135,
+    "quality": "Epic",
+    "name": "Falling Star",
+    "color": "Blue"
+  },
+  {
+    "itemId": 33137,
+    "quality": "Epic",
+    "name": "Sparkling Falling Star",
+    "color": null
+  },
+  {
+    "itemId": 33138,
+    "quality": "Epic",
+    "name": "Mystic Bladestone",
+    "color": null
+  },
+  {
+    "itemId": 33139,
+    "quality": "Epic",
+    "name": "Brilliant Bladestone",
+    "color": null
+  },
+  {
+    "itemId": 33140,
+    "quality": "Epic",
+    "name": "Blood of Amber",
+    "color": "Yellow"
+  },
+  {
+    "itemId": 33141,
+    "quality": "Epic",
+    "name": "Great Bladestone",
+    "color": null
+  },
+  {
+    "itemId": 33142,
+    "quality": "Epic",
+    "name": "Rigid Bladestone",
+    "color": null
+  },
+  {
+    "itemId": 33143,
+    "quality": "Epic",
+    "name": "Stone of Blades",
+    "color": "Yellow"
+  },
+  {
+    "itemId": 33144,
+    "quality": "Epic",
+    "name": "Facet of Eternity",
+    "color": "Yellow"
+  },
+  {
+    "itemId": 33782,
+    "quality": "Rare",
+    "name": "Steady Talasite",
+    "color": "Green"
+  },
+  {
+    "itemId": 34220,
+    "quality": "Rare",
+    "name": "Chaotic Skyfire Diamond",
+    "color": "Meta"
+  },
+  {
+    "itemId": 34256,
+    "quality": "Epic",
+    "name": "Charmed Amani Jewel",
+    "color": null
+  },
+  {
+    "itemId": 34831,
+    "quality": "Rare",
+    "name": "Eye of the Sea",
+    "color": "Blue"
+  },
+  {
+    "itemId": 35315,
+    "quality": "Rare",
+    "name": "Quick Dawnstone",
+    "color": "Yellow"
+  },
+  {
+    "itemId": 35316,
+    "quality": "Rare",
+    "name": "Reckless Noble Topaz",
+    "color": "Orange"
+  },
+  {
+    "itemId": 35318,
+    "quality": "Rare",
+    "name": "Forceful Talasite",
+    "color": "Green"
+  },
+  {
+    "itemId": 35487,
+    "quality": "Epic",
+    "name": "Bright Crimson Spinel",
+    "color": "Red"
+  },
+  {
+    "itemId": 35488,
+    "quality": "Epic",
+    "name": "Runed Crimson Spinel",
+    "color": "Red"
+  },
+  {
+    "itemId": 35489,
+    "quality": "Epic",
+    "name": "Teardrop Crimson Spinel",
+    "color": null
+  },
+  {
+    "itemId": 35501,
+    "quality": "Rare",
+    "name": "Eternal Earthstorm Diamond",
+    "color": "Meta"
+  },
+  {
+    "itemId": 35503,
+    "quality": "Rare",
+    "name": "Ember Skyfire Diamond",
+    "color": "Meta"
+  },
+  {
+    "itemId": 35707,
+    "quality": "Rare",
+    "name": "Regal Nightseye",
+    "color": "Purple"
+  },
+  {
+    "itemId": 35758,
+    "quality": "Epic",
+    "name": "Steady Seaspray Emerald",
+    "color": "Green"
+  },
+  {
+    "itemId": 35759,
+    "quality": "Epic",
+    "name": "Forceful Seaspray Emerald",
+    "color": "Green"
+  },
+  {
+    "itemId": 35760,
+    "quality": "Epic",
+    "name": "Reckless Pyrestone",
+    "color": "Orange"
+  },
+  {
+    "itemId": 35761,
+    "quality": "Epic",
+    "name": "Quick Lionseye",
+    "color": "Yellow"
+  },
+  {
+    "itemId": 37503,
+    "quality": "Epic",
+    "name": "Purified Shadowsong Amethyst",
+    "color": "Purple"
+  },
+  {
+    "itemId": 38545,
+    "quality": "Epic",
+    "name": "Bold Ornate Ruby",
+    "color": null
+  },
+  {
+    "itemId": 38546,
+    "quality": "Epic",
+    "name": "Gleaming Ornate Dawnstone",
+    "color": null
+  },
+  {
+    "itemId": 38547,
+    "quality": "Epic",
+    "name": "Inscribed Ornate Topaz",
+    "color": null
+  },
+  {
+    "itemId": 38548,
+    "quality": "Epic",
+    "name": "Potent Ornate Topaz",
+    "color": null
+  },
+  {
+    "itemId": 38549,
+    "quality": "Epic",
+    "name": "Runed Ornate Ruby",
+    "color": null
+  },
+  {
+    "itemId": 38550,
+    "quality": "Epic",
+    "name": "Smooth Ornate Dawnstone",
+    "color": null
+  }
+]

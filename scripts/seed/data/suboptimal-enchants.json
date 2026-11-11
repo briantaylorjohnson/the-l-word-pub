@@ -1,0 +1,677 @@
+[
+  {
+    "enchantId": 927,
+    "slot": 8,
+    "label": "Bracers - 7 Str"
+  },
+  {
+    "enchantId": 856,
+    "slot": 8,
+    "label": "Bracers - 5 Str"
+  },
+  {
+    "enchantId": 823,
+    "slot": 8,
+    "label": "Bracers - 3 Str"
+  },
+  {
+    "enchantId": 248,
+    "slot": 8,
+    "label": "Bracers - 1 Str"
+  },
+  {
+    "enchantId": 929,
+    "slot": 8,
+    "label": "Bracers - 7 Sta"
+  },
+  {
+    "enchantId": 852,
+    "slot": 8,
+    "label": "Bracers - 5 Sta"
+  },
+  {
+    "enchantId": 724,
+    "slot": 8,
+    "label": "Bracers - 3 Sta"
+  },
+  {
+    "enchantId": 66,
+    "slot": 8,
+    "label": "Bracers - 1 Sta"
+  },
+  {
+    "enchantId": 41,
+    "slot": 8,
+    "label": "Bracers - 5 HP"
+  },
+  {
+    "enchantId": 907,
+    "slot": 8,
+    "label": "Bracers - 7 Spi"
+  },
+  {
+    "enchantId": 851,
+    "slot": 8,
+    "label": "Bracers - 5 Spi"
+  },
+  {
+    "enchantId": 255,
+    "slot": 8,
+    "label": "Bracers - 3 Spi"
+  },
+  {
+    "enchantId": 905,
+    "slot": 8,
+    "label": "Bracers - 5 Int"
+  },
+  {
+    "enchantId": 723,
+    "slot": 8,
+    "label": "Bracers - 3 Int"
+  },
+  {
+    "enchantId": 923,
+    "slot": 8,
+    "label": "Bracers - 3 Def"
+  },
+  {
+    "enchantId": 925,
+    "slot": 8,
+    "label": "Bracers - 2 Def"
+  },
+  {
+    "enchantId": 924,
+    "slot": 8,
+    "label": "Bracers - 1 Def"
+  },
+  {
+    "enchantId": 1887,
+    "slot": 9,
+    "label": "Gloves - 7 Agi"
+  },
+  {
+    "enchantId": 904,
+    "slot": 9,
+    "label": "Gloves - 5 Agi"
+  },
+  {
+    "enchantId": 856,
+    "slot": 9,
+    "label": "Gloves - 5 Str"
+  },
+  {
+    "enchantId": 909,
+    "slot": 9,
+    "label": "Gloves - 5 Herb"
+  },
+  {
+    "enchantId": 845,
+    "slot": 9,
+    "label": "Gloves - 3 Herb"
+  },
+  {
+    "enchantId": 906,
+    "slot": 9,
+    "label": "Gloves - 5 Mining"
+  },
+  {
+    "enchantId": 844,
+    "slot": 9,
+    "label": "Gloves - 3 Mining"
+  },
+  {
+    "enchantId": 865,
+    "slot": 9,
+    "label": "Gloves - 5 Skinn"
+  },
+  {
+    "enchantId": 846,
+    "slot": 9,
+    "label": "Gloves - 2 Fishing"
+  },
+  {
+    "enchantId": 255,
+    "slot": 7,
+    "label": "Boots - 3 Spi"
+  },
+  {
+    "enchantId": 904,
+    "slot": 7,
+    "label": "Boots - 5 Agi"
+  },
+  {
+    "enchantId": 849,
+    "slot": 7,
+    "label": "Boots - 3 Agi"
+  },
+  {
+    "enchantId": 247,
+    "slot": 7,
+    "label": "Boots - 1 Agi"
+  },
+  {
+    "enchantId": 852,
+    "slot": 7,
+    "label": "Boots - 5 Sta"
+  },
+  {
+    "enchantId": 724,
+    "slot": 7,
+    "label": "Boots - 3 Sta"
+  },
+  {
+    "enchantId": 66,
+    "slot": 7,
+    "label": "Boots - 1 Sta"
+  },
+  {
+    "enchantId": 908,
+    "slot": 4,
+    "label": "Chest - 50 HP"
+  },
+  {
+    "enchantId": 850,
+    "slot": 4,
+    "label": "Chest - 35 HP"
+  },
+  {
+    "enchantId": 254,
+    "slot": 4,
+    "label": "Chest - 25 HP"
+  },
+  {
+    "enchantId": 242,
+    "slot": 4,
+    "label": "Chest - 15 HP"
+  },
+  {
+    "enchantId": 41,
+    "slot": 4,
+    "label": "Chest - 5 HP"
+  },
+  {
+    "enchantId": 913,
+    "slot": 4,
+    "label": "Chest - 65 Mana"
+  },
+  {
+    "enchantId": 857,
+    "slot": 4,
+    "label": "Chest - 50 Mana"
+  },
+  {
+    "enchantId": 843,
+    "slot": 4,
+    "label": "Chest - 30 Mana"
+  },
+  {
+    "enchantId": 246,
+    "slot": 4,
+    "label": "Chest - 20 Mana"
+  },
+  {
+    "enchantId": 24,
+    "slot": 4,
+    "label": "Chest - 5 Mana"
+  },
+  {
+    "enchantId": 928,
+    "slot": 4,
+    "label": "Chest - 3 Stats"
+  },
+  {
+    "enchantId": 866,
+    "slot": 4,
+    "label": "Chest - 2 Stats"
+  },
+  {
+    "enchantId": 847,
+    "slot": 4,
+    "label": "Chest - 1 Stats"
+  },
+  {
+    "enchantId": 63,
+    "slot": 4,
+    "label": "Chest - 25 Absorb"
+  },
+  {
+    "enchantId": 44,
+    "slot": 4,
+    "label": "Chest - 10 Absorb"
+  },
+  {
+    "enchantId": 910,
+    "slot": 14,
+    "label": "Cloak - Stealth"
+  },
+  {
+    "enchantId": 903,
+    "slot": 14,
+    "label": "Cloak - 3 Res"
+  },
+  {
+    "enchantId": 65,
+    "slot": 14,
+    "label": "Cloak - 1 Res"
+  },
+  {
+    "enchantId": 2463,
+    "slot": 14,
+    "label": "Cloak - 7 FR"
+  },
+  {
+    "enchantId": 256,
+    "slot": 14,
+    "label": "Cloak - 5 FR"
+  },
+  {
+    "enchantId": 1889,
+    "slot": 14,
+    "label": "Cloak - 70 Armor"
+  },
+  {
+    "enchantId": 884,
+    "slot": 14,
+    "label": "Cloak - 50 Armor"
+  },
+  {
+    "enchantId": 848,
+    "slot": 14,
+    "label": "Cloak - 30 Armor"
+  },
+  {
+    "enchantId": 744,
+    "slot": 14,
+    "label": "Cloak - 20 Armor"
+  },
+  {
+    "enchantId": 783,
+    "slot": 14,
+    "label": "Cloak - 10 Armor"
+  },
+  {
+    "enchantId": 247,
+    "slot": 14,
+    "label": "Cloak - 1 Agi"
+  },
+  {
+    "enchantId": 852,
+    "slot": 16,
+    "label": "Shield - 5 Sta"
+  },
+  {
+    "enchantId": 724,
+    "slot": 16,
+    "label": "Shield - 3 Sta"
+  },
+  {
+    "enchantId": 66,
+    "slot": 16,
+    "label": "Shield - 1 Sta"
+  },
+  {
+    "enchantId": 907,
+    "slot": 16,
+    "label": "Shield - 7 Spi"
+  },
+  {
+    "enchantId": 851,
+    "slot": 16,
+    "label": "Shield - 5 Spi"
+  },
+  {
+    "enchantId": 255,
+    "slot": 16,
+    "label": "Shield - 3 Spi"
+  },
+  {
+    "enchantId": 848,
+    "slot": 16,
+    "label": "Shield - 30 Armor"
+  },
+  {
+    "enchantId": 1704,
+    "slot": 16,
+    "label": "Shield - Thor Spike"
+  },
+  {
+    "enchantId": 463,
+    "slot": 16,
+    "label": "Shield - Mith Spike"
+  },
+  {
+    "enchantId": 43,
+    "slot": 16,
+    "label": "Shield - Iron Spike"
+  },
+  {
+    "enchantId": 2503,
+    "slot": -1,
+    "label": "3 Def"
+  },
+  {
+    "enchantId": 1843,
+    "slot": -1,
+    "label": "40 Armor"
+  },
+  {
+    "enchantId": 18,
+    "slot": -1,
+    "label": "32 Armor"
+  },
+  {
+    "enchantId": 17,
+    "slot": -1,
+    "label": "24 Armor"
+  },
+  {
+    "enchantId": 16,
+    "slot": -1,
+    "label": "16 Armor"
+  },
+  {
+    "enchantId": 15,
+    "slot": -1,
+    "label": "8 Armor"
+  },
+  {
+    "enchantId": 1903,
+    "slot": -1,
+    "label": "Weapon - 9 Spi"
+  },
+  {
+    "enchantId": 255,
+    "slot": -1,
+    "label": "Weapon - 3 Spi"
+  },
+  {
+    "enchantId": 1904,
+    "slot": -1,
+    "label": "Weapon - 9 Int"
+  },
+  {
+    "enchantId": 723,
+    "slot": -1,
+    "label": "Weapon - 3 Int"
+  },
+  {
+    "enchantId": 1896,
+    "slot": -1,
+    "label": "Weapon - 9 Dmg"
+  },
+  {
+    "enchantId": 963,
+    "slot": -1,
+    "label": "Weapon - 7 Dmg"
+  },
+  {
+    "enchantId": 943,
+    "slot": -1,
+    "label": "Weapon - 3 Dmg"
+  },
+  {
+    "enchantId": 241,
+    "slot": -1,
+    "label": "Weapon - 2 Dmg"
+  },
+  {
+    "enchantId": 2443,
+    "slot": -1,
+    "label": "Weapon - 7 Frost"
+  },
+  {
+    "enchantId": 1899,
+    "slot": -1,
+    "label": "Weapon - Unholy"
+  },
+  {
+    "enchantId": 1898,
+    "slot": -1,
+    "label": "Weapon - Lifesteal"
+  },
+  {
+    "enchantId": 803,
+    "slot": -1,
+    "label": "Weapon - Fiery"
+  },
+  {
+    "enchantId": 854,
+    "slot": -1,
+    "label": "Weapon - Elemental"
+  },
+  {
+    "enchantId": 805,
+    "slot": -1,
+    "label": "Weapon - 4 Dmg"
+  },
+  {
+    "enchantId": 2646,
+    "slot": -1,
+    "label": "Weapon - 25 Agi"
+  },
+  {
+    "enchantId": 1887,
+    "slot": 7,
+    "label": "Boots - 7 Agi"
+  },
+  {
+    "enchantId": 929,
+    "slot": 7,
+    "label": "Boots - 7 Sta"
+  },
+  {
+    "enchantId": 1886,
+    "slot": 8,
+    "label": "Bracers - 9 Sta"
+  },
+  {
+    "enchantId": 1885,
+    "slot": 8,
+    "label": "Bracers - 9 Str"
+  },
+  {
+    "enchantId": 1891,
+    "slot": 4,
+    "label": "Chest - 4 Stats"
+  },
+  {
+    "enchantId": 1893,
+    "slot": 4,
+    "label": "Chest - 100 Mana"
+  },
+  {
+    "enchantId": 2934,
+    "slot": 9,
+    "label": "Gloves - Blasting"
+  },
+  {
+    "enchantId": 927,
+    "slot": 9,
+    "label": "Gloves - 7 Str"
+  },
+  {
+    "enchantId": 929,
+    "slot": 16,
+    "label": "Shield - 7 Sta"
+  },
+  {
+    "enchantId": 2568,
+    "slot": -1,
+    "label": "Weapon - 22 Int"
+  },
+  {
+    "enchantId": 2938,
+    "slot": 14,
+    "label": "Cloak - Spell Pen"
+  },
+  {
+    "enchantId": 2745,
+    "slot": -1,
+    "label": "Legs - Silver Thread"
+  },
+  {
+    "enchantId": 2747,
+    "slot": -1,
+    "label": "Legs - Mystic Thread"
+  },
+  {
+    "enchantId": 2606,
+    "slot": -1,
+    "label": "Shoulder - ZG"
+  },
+  {
+    "enchantId": 2605,
+    "slot": -1,
+    "label": "Shoulder - ZG"
+  },
+  {
+    "enchantId": 2604,
+    "slot": -1,
+    "label": "Shoulder - ZG"
+  },
+  {
+    "enchantId": 2996,
+    "slot": -1,
+    "label": "Shoulder - Scryer Hon"
+  },
+  {
+    "enchantId": 2990,
+    "slot": -1,
+    "label": "Shoulder - Scryer Hon"
+  },
+  {
+    "enchantId": 2992,
+    "slot": -1,
+    "label": "Shoulder - Scryer Hon"
+  },
+  {
+    "enchantId": 2994,
+    "slot": -1,
+    "label": "Shoulder - Scryer Hon"
+  },
+  {
+    "enchantId": 2981,
+    "slot": -1,
+    "label": "Shoulder - Aldor Hon"
+  },
+  {
+    "enchantId": 2979,
+    "slot": -1,
+    "label": "Shoulder - Aldor Hon"
+  },
+  {
+    "enchantId": 2983,
+    "slot": -1,
+    "label": "Shoulder - Aldor Hon"
+  },
+  {
+    "enchantId": 2977,
+    "slot": -1,
+    "label": "Shoulder - Aldor Hon"
+  },
+  {
+    "enchantId": 2591,
+    "slot": -1,
+    "label": "Head/Legs - ZG"
+  },
+  {
+    "enchantId": 2586,
+    "slot": -1,
+    "label": "Head/Legs - ZG"
+  },
+  {
+    "enchantId": 2588,
+    "slot": -1,
+    "label": "Head/Legs - ZG"
+  },
+  {
+    "enchantId": 2584,
+    "slot": -1,
+    "label": "Head/Legs - ZG"
+  },
+  {
+    "enchantId": 2590,
+    "slot": -1,
+    "label": "Head/Legs - ZG"
+  },
+  {
+    "enchantId": 2585,
+    "slot": -1,
+    "label": "Head/Legs - ZG"
+  },
+  {
+    "enchantId": 2587,
+    "slot": -1,
+    "label": "Head/Legs - ZG"
+  },
+  {
+    "enchantId": 2589,
+    "slot": -1,
+    "label": "Head/Legs - ZG"
+  },
+  {
+    "enchantId": 2583,
+    "slot": 6,
+    "label": "Head/Legs - ZG"
+  },
+  {
+    "enchantId": 911,
+    "slot": -1,
+    "label": "Boots - Minor Speed"
+  },
+  {
+    "enchantId": 1900,
+    "slot": -1,
+    "label": "Weapon - Crusader"
+  },
+  {
+    "enchantId": 2841,
+    "slot": 0,
+    "label": "Heavy Knothide Kit"
+  },
+  {
+    "enchantId": 2792,
+    "slot": -1,
+    "label": "Knothide Kit"
+  },
+  {
+    "enchantId": 2841,
+    "slot": 2,
+    "label": "Heavy Knothide Kit"
+  },
+  {
+    "enchantId": 2841,
+    "slot": 4,
+    "label": "Heavy Knothide Kit"
+  },
+  {
+    "enchantId": 2841,
+    "slot": 6,
+    "label": "Heavy Knothide Kit"
+  },
+  {
+    "enchantId": 2841,
+    "slot": 7,
+    "label": "Heavy Knothide Kit"
+  },
+  {
+    "enchantId": 930,
+    "slot": 9,
+    "label": "Gloves - Mount Speed"
+  },
+  {
+    "enchantId": 464,
+    "slot": 7,
+    "label": "Boots - Mount Speed"
+  },
+  {
+    "enchantId": 3010,
+    "slot": -1,
+    "label": "Legs - 40AP/10Crit"
+  },
+  {
+    "enchantId": 2669,
+    "slot": -1,
+    "label": "Weapon - 40SP"
+  }
+]

@@ -1,0 +1,494 @@
+[
+  {
+    "zone": "Kara",
+    "bossName": "Spectral Charger or Spectral Stallion",
+    "npcIds": "15547,15548",
+    "minKills": 12
+  },
+  {
+    "zone": "Kara",
+    "bossName": "Spectral Servant",
+    "npcIds": "16407",
+    "minKills": 4
+  },
+  {
+    "zone": "Kara",
+    "bossName": "Phantom Valet",
+    "npcIds": "16408",
+    "minKills": 3
+  },
+  {
+    "zone": "Kara",
+    "bossName": "Phantom Guest",
+    "npcIds": "16409",
+    "minKills": 65
+  },
+  {
+    "zone": "Kara",
+    "bossName": "Skeletal Waiter",
+    "npcIds": "16415",
+    "minKills": 2
+  },
+  {
+    "zone": "Kara",
+    "bossName": "Phantom Guardsman",
+    "npcIds": "16425",
+    "minKills": 4
+  },
+  {
+    "zone": "Kara",
+    "bossName": "Spectral Sentry",
+    "npcIds": "16424",
+    "minKills": 2
+  },
+  {
+    "zone": "Kara",
+    "bossName": "Skeletal Usher",
+    "npcIds": "16471",
+    "minKills": 4
+  },
+  {
+    "zone": "Kara",
+    "bossName": "Phantom Stagehand",
+    "npcIds": "16472",
+    "minKills": 1
+  },
+  {
+    "zone": "Kara",
+    "bossName": "Spectral Performer",
+    "npcIds": "16473",
+    "minKills": 6
+  },
+  {
+    "zone": "Kara",
+    "bossName": "Ghostly Philantropist",
+    "npcIds": "16470",
+    "minKills": 5
+  },
+  {
+    "zone": "Kara",
+    "bossName": "Ghastly Haunt or Trapped Soul",
+    "npcIds": "16481,16482",
+    "minKills": 6
+  },
+  {
+    "zone": "Kara",
+    "bossName": "Arcane Watchman",
+    "npcIds": "16485",
+    "minKills": 2
+  },
+  {
+    "zone": "Kara",
+    "bossName": "Arcane Anomaly",
+    "npcIds": "16488",
+    "minKills": 5
+  },
+  {
+    "zone": "Kara",
+    "bossName": "Arcane Protector",
+    "npcIds": "16504",
+    "minKills": 3
+  },
+  {
+    "zone": "Kara",
+    "bossName": "Mana Feeder",
+    "npcIds": "16491",
+    "minKills": 3
+  },
+  {
+    "zone": "Kara",
+    "bossName": "Magical Horror",
+    "npcIds": "16529",
+    "minKills": 1
+  },
+  {
+    "zone": "Kara",
+    "bossName": "Spell Shade",
+    "npcIds": "16525",
+    "minKills": 18
+  },
+  {
+    "zone": "Kara",
+    "bossName": "Shadow Pillager",
+    "npcIds": "16540",
+    "minKills": 1
+  },
+  {
+    "zone": "Kara",
+    "bossName": "Sorcerous Shade",
+    "npcIds": "16526",
+    "minKills": 3
+  },
+  {
+    "zone": "Kara",
+    "bossName": "Ethereal Thief or Ethereal Spellfilcher",
+    "npcIds": "16544,16545",
+    "minKills": 3
+  },
+  {
+    "zone": "Kara",
+    "bossName": "Greater Fleshbeast",
+    "npcIds": "16596",
+    "minKills": 1
+  },
+  {
+    "zone": "Kara",
+    "bossName": "Fleshbeast",
+    "npcIds": "16595",
+    "minKills": 4
+  },
+  {
+    "zone": "SSC",
+    "bossName": "Underbog Colossus",
+    "npcIds": "21251",
+    "minKills": 6
+  },
+  {
+    "zone": "SSC",
+    "bossName": "Coilfang Shatterer",
+    "npcIds": "21301",
+    "minKills": 14
+  },
+  {
+    "zone": "SSC",
+    "bossName": "Greyheart Tidecaller",
+    "npcIds": "21229",
+    "minKills": 16
+  },
+  {
+    "zone": "SSC",
+    "bossName": "Coilfang Fathom-Witch",
+    "npcIds": "21299",
+    "minKills": 6
+  },
+  {
+    "zone": "SSC",
+    "bossName": "Tidewalker Depth-Seer/Harpooner/Hydromancer/Shaman/Warrior",
+    "npcIds": "21224,21225,21226,21227,21228",
+    "minKills": 20
+  },
+  {
+    "zone": "SSC",
+    "bossName": "Vashj'ir Honor Guard",
+    "npcIds": "21218",
+    "minKills": 6
+  },
+  {
+    "zone": "TK",
+    "bossName": "Bloodwarder Legionnaire",
+    "npcIds": "20031",
+    "minKills": 11
+  },
+  {
+    "zone": "TK",
+    "bossName": "Bloodwarder Vindicator",
+    "npcIds": "20032",
+    "minKills": 3
+  },
+  {
+    "zone": "TK",
+    "bossName": "Bloodwarder Squire",
+    "npcIds": "20036",
+    "minKills": 12
+  },
+  {
+    "zone": "TK",
+    "bossName": "Tempest Falconer",
+    "npcIds": "20037",
+    "minKills": 4
+  },
+  {
+    "zone": "TK",
+    "bossName": "Phoenix-Hawk",
+    "npcIds": "20039",
+    "minKills": 4
+  },
+  {
+    "zone": "TK",
+    "bossName": "Crystalcore Devastator",
+    "npcIds": "20040",
+    "minKills": 4
+  },
+  {
+    "zone": "TK",
+    "bossName": "Crystalcore Sentinel",
+    "npcIds": "20041",
+    "minKills": 10
+  },
+  {
+    "zone": "TK",
+    "bossName": "Astromancer Lord",
+    "npcIds": "20046",
+    "minKills": 1
+  },
+  {
+    "zone": "TK",
+    "bossName": "Nether Scryer",
+    "npcIds": "20045",
+    "minKills": 2
+  },
+  {
+    "zone": "TK",
+    "bossName": "Crimson Hand Battle Mage",
+    "npcIds": "20047",
+    "minKills": 4
+  },
+  {
+    "zone": "MH",
+    "bossName": "Ghoul",
+    "npcIds": "17895",
+    "minKills": 124
+  },
+  {
+    "zone": "BT",
+    "bossName": "Leviathan",
+    "npcIds": "22884",
+    "minKills": 2
+  },
+  {
+    "zone": "BT",
+    "bossName": "Aqueous Lord",
+    "npcIds": "22878",
+    "minKills": 3
+  },
+  {
+    "zone": "BT",
+    "bossName": "Coilskar Wrangler",
+    "npcIds": "22877",
+    "minKills": 4
+  },
+  {
+    "zone": "BT",
+    "bossName": "Coilskar General",
+    "npcIds": "22873",
+    "minKills": 2
+  },
+  {
+    "zone": "BT",
+    "bossName": "Aquaeous Spawn",
+    "npcIds": "22883",
+    "minKills": 14
+  },
+  {
+    "zone": "BT",
+    "bossName": "Bonechewer Taskmaster",
+    "npcIds": "23028",
+    "minKills": 1
+  },
+  {
+    "zone": "BT",
+    "bossName": "Dragonmaw Wyrmcaller/Illidari Fearbringer",
+    "npcIds": "22954,22960",
+    "minKills": 6
+  },
+  {
+    "zone": "BT",
+    "bossName": "Illidari Centurion/Ashtongue Mystic",
+    "npcIds": "22845,23337",
+    "minKills": 10
+  },
+  {
+    "zone": "BT",
+    "bossName": "Illidari Boneslicer/Illidari Defiler/Illidari Heartseeker",
+    "npcIds": "22869,22853,23339",
+    "minKills": 12
+  },
+  {
+    "zone": "BT",
+    "bossName": "Ashtongue Feral Spirit",
+    "npcIds": "22849",
+    "minKills": 3
+  },
+  {
+    "zone": "BT",
+    "bossName": "Illidari Nightlord",
+    "npcIds": "22855",
+    "minKills": 2
+  },
+  {
+    "zone": "BT",
+    "bossName": "Ashtongue Primalist",
+    "npcIds": "22847",
+    "minKills": 5
+  },
+  {
+    "zone": "BT",
+    "bossName": "Shadowmoon Champion",
+    "npcIds": "22880",
+    "minKills": 6
+  },
+  {
+    "zone": "BT",
+    "bossName": "Shadowmoon Houndmaster",
+    "npcIds": "23018",
+    "minKills": 6
+  },
+  {
+    "zone": "BT",
+    "bossName": "Shadowmoon Weapon Master/Wrathbone Flayer",
+    "npcIds": "22953,23049",
+    "minKills": 2
+  },
+  {
+    "zone": "BT",
+    "bossName": "Hand of Gorefiend",
+    "npcIds": "23172",
+    "minKills": 4
+  },
+  {
+    "zone": "BT",
+    "bossName": "Bonechewer Behemoth",
+    "npcIds": "23196",
+    "minKills": 4
+  },
+  {
+    "zone": "BT",
+    "bossName": "Bonechewer Blade Fury",
+    "npcIds": "23235",
+    "minKills": 6
+  },
+  {
+    "zone": "BT",
+    "bossName": "Bonechewer Combatant",
+    "npcIds": "23239",
+    "minKills": 2
+  },
+  {
+    "zone": "BT",
+    "bossName": "Priestess of Torment",
+    "npcIds": "22956",
+    "minKills": 5
+  },
+  {
+    "zone": "BT",
+    "bossName": "Mistress of Dementia/Mistress of Woe",
+    "npcIds": "22957,22962",
+    "minKills": 4
+  },
+  {
+    "zone": "BT",
+    "bossName": "Temple Acolyte/Charming Patron",
+    "npcIds": "22939,22955",
+    "minKills": 71
+  },
+  {
+    "zone": "BT",
+    "bossName": "Promenade Sentinel",
+    "npcIds": "23394",
+    "minKills": 4
+  },
+  {
+    "zone": "BT",
+    "bossName": "Illidari Blood Lord",
+    "npcIds": "23397",
+    "minKills": 4
+  },
+  {
+    "zone": "ZA",
+    "bossName": "Amani'shi Savage",
+    "npcIds": "23889",
+    "minKills": 8
+  },
+  {
+    "zone": "ZA",
+    "bossName": "Amani'shi Medicine Man/Amani'shi Wind Walker/Amani'shi Flame Caster",
+    "npcIds": "23581,24179,23596",
+    "minKills": 14
+  },
+  {
+    "zone": "ZA",
+    "bossName": "Amani'shi Protector",
+    "npcIds": "24180",
+    "minKills": 4
+  },
+  {
+    "zone": "ZA",
+    "bossName": "Amani'shi Tempest",
+    "npcIds": "24549",
+    "minKills": 2
+  },
+  {
+    "zone": "ZA",
+    "bossName": "Amani'shi Tribesman",
+    "npcIds": "23582",
+    "minKills": 2
+  },
+  {
+    "zone": "ZA",
+    "bossName": "Amani'shi Warbringer",
+    "npcIds": "23580",
+    "minKills": 4
+  },
+  {
+    "zone": "ZA",
+    "bossName": "Amani Elder Lynx",
+    "npcIds": "24530",
+    "minKills": 3
+  },
+  {
+    "zone": "ZA",
+    "bossName": "Amani'shi Handler",
+    "npcIds": "24065",
+    "minKills": 3
+  },
+  {
+    "zone": "ZA",
+    "bossName": "Amani'shi Berserker",
+    "npcIds": "24374",
+    "minKills": 4
+  },
+  {
+    "zone": "SW",
+    "bossName": "Sunblade Protector",
+    "npcIds": "25507",
+    "minKills": 5
+  },
+  {
+    "zone": "SW",
+    "bossName": "Sunblade Arch Mage/Cabalist/Dawn Priest/Dusk Priest/Slayer/Vindicator",
+    "npcIds": "25363,25367,25368,25369,25370,25371",
+    "minKills": 65
+  },
+  {
+    "zone": "SW",
+    "bossName": "Sunblade Scout",
+    "npcIds": "25372",
+    "minKills": 4
+  },
+  {
+    "zone": "SW",
+    "bossName": "Shadowsword Commander/Lifeshaper/Manafiend/Soulbinder/Vanquisher",
+    "npcIds": "25373,25483,25486,25506,25837",
+    "minKills": 26
+  },
+  {
+    "zone": "SW",
+    "bossName": "Doomfire Destroyer",
+    "npcIds": "25592",
+    "minKills": 1
+  },
+  {
+    "zone": "SW",
+    "bossName": "Oblivion Mage/Painbringer/Priestess of Torment",
+    "npcIds": "25509,25591,25597",
+    "minKills": 6
+  },
+  {
+    "zone": "SW",
+    "bossName": "Apocalypse Guard",
+    "npcIds": "25593",
+    "minKills": 4
+  },
+  {
+    "zone": "SW",
+    "bossName": "Cataclysm Hound",
+    "npcIds": "25599",
+    "minKills": 2
+  },
+  {
+    "zone": "SW",
+    "bossName": "Shadowsword Guardian",
+    "npcIds": "25508",
+    "minKills": 2
+  }
+]

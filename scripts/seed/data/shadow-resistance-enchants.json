@@ -1,0 +1,14 @@
+[
+  { "enchantId": 3009, "srValue": 20, "name": "Glyph of Shadow Warding" },
+  { "enchantId": 1441, "srValue": 15, "name": "Enchant Cloak - Greater Shadow Resistance" },
+  { "enchantId": 804,  "srValue": 10, "name": "Enchant Cloak - Lesser Shadow Resistance" },
+  { "enchantId": 2984, "srValue": 8,  "name": "Shadow Armor Kit" },
+  { "enchantId": 2998, "srValue": 7,  "name": "Inscription of Endurance" },
+  { "enchantId": 2664, "srValue": 7,  "name": "Enchant Cloak - Major Resistance" },
+  { "enchantId": 1888, "srValue": 5,  "name": "Enchant Shield - Resistance" },
+  { "enchantId": 903,  "srValue": 3,  "name": "Enchant Cloak - Minor Resistance" },
+
+  { "enchantId": 2841, "srValue": 0,  "name": "Heavy Knothide Armor Kit (stamina, no SR)" },
+  { "enchantId": 2987, "srValue": 0,  "name": "Frost Armor Kit (frost resist, no SR)" },
+  { "enchantId": 2988, "srValue": 0,  "name": "Nature Armor Kit (nature resist, no SR)" }
+]

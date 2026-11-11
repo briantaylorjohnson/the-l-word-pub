@@ -1,0 +1,30 @@
+version: 1
+backend:
+  phases:
+    build:
+      commands:
+        # npm ci, not npm install: AWS's own CDK/graphql-api-construct
+        # dependency tree has nested @opentelemetry/* peer version
+        # conflicts npm's dedup can't fully reconcile against a strict
+        # lockfile match — confirmed locally (`npm ci` fails with
+        # "Missing: @opentelemetry/core@2.0.0 from lock file" even
+        # immediately after a clean `npm install`). Not something this
+        # project's own dependencies caused.
+        - npm install --cache .npm --prefer-offline
+        - npx ampx pipeline-deploy --branch $AWS_BRANCH --app-id $AWS_APP_ID
+frontend:
+  phases:
+    preBuild:
+      commands:
+        - npm install --cache .npm --prefer-offline
+    build:
+      commands:
+        - npm run build
+  artifacts:
+    baseDirectory: dist
+    files:
+      - '**/*'
+  cache:
+    paths:
+      - .npm/**/*
+      - node_modules/**/*

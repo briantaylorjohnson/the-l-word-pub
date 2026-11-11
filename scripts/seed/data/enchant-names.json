@@ -1,0 +1,822 @@
+[
+  {
+    "enchantId": 15,
+    "name": "8 Armor"
+  },
+  {
+    "enchantId": 16,
+    "name": "16 Armor"
+  },
+  {
+    "enchantId": 17,
+    "name": "24 Armor"
+  },
+  {
+    "enchantId": 18,
+    "name": "32 Armor"
+  },
+  {
+    "enchantId": 24,
+    "name": "Chest - 5 Mana"
+  },
+  {
+    "enchantId": 41,
+    "name": "Bracers - 5 HP"
+  },
+  {
+    "enchantId": 43,
+    "name": "Shield - Iron Spike"
+  },
+  {
+    "enchantId": 44,
+    "name": "Chest - 10 Absorb"
+  },
+  {
+    "enchantId": 63,
+    "name": "Chest - 25 Absorb"
+  },
+  {
+    "enchantId": 65,
+    "name": "Cloak - 1 Res"
+  },
+  {
+    "enchantId": 66,
+    "name": "Bracers - 1 Sta"
+  },
+  {
+    "enchantId": 241,
+    "name": "Weapon - 2 Dmg"
+  },
+  {
+    "enchantId": 242,
+    "name": "Chest - 15 HP"
+  },
+  {
+    "enchantId": 246,
+    "name": "Chest - 20 Mana"
+  },
+  {
+    "enchantId": 247,
+    "name": "Boots - 1 Agi"
+  },
+  {
+    "enchantId": 248,
+    "name": "Bracers - 1 Str"
+  },
+  {
+    "enchantId": 254,
+    "name": "Chest - 25 HP"
+  },
+  {
+    "enchantId": 255,
+    "name": "Bracers - 3 Spi"
+  },
+  {
+    "enchantId": 256,
+    "name": "Cloak - 5 FR"
+  },
+  {
+    "enchantId": 368,
+    "name": "Enchant Cloak - Greater Agility"
+  },
+  {
+    "enchantId": 369,
+    "name": "Bracer - Major Intellect"
+  },
+  {
+    "enchantId": 463,
+    "name": "Shield - Mith Spike"
+  },
+  {
+    "enchantId": 464,
+    "name": "Boots - Mount Speed"
+  },
+  {
+    "enchantId": 684,
+    "name": "Gloves - Major Strength"
+  },
+  {
+    "enchantId": 723,
+    "name": "Bracers - 3 Int"
+  },
+  {
+    "enchantId": 724,
+    "name": "Bracers - 3 Sta"
+  },
+  {
+    "enchantId": 744,
+    "name": "Cloak - 20 Armor"
+  },
+  {
+    "enchantId": 783,
+    "name": "Cloak - 10 Armor"
+  },
+  {
+    "enchantId": 803,
+    "name": "Weapon - Fiery"
+  },
+  {
+    "enchantId": 805,
+    "name": "Weapon - 4 Dmg"
+  },
+  {
+    "enchantId": 823,
+    "name": "Bracers - 3 Str"
+  },
+  {
+    "enchantId": 843,
+    "name": "Chest - 30 Mana"
+  },
+  {
+    "enchantId": 844,
+    "name": "Gloves - 3 Mining"
+  },
+  {
+    "enchantId": 845,
+    "name": "Gloves - 3 Herb"
+  },
+  {
+    "enchantId": 846,
+    "name": "Gloves - 2 Fishing"
+  },
+  {
+    "enchantId": 847,
+    "name": "Chest - 1 Stats"
+  },
+  {
+    "enchantId": 848,
+    "name": "Cloak - 30 Armor"
+  },
+  {
+    "enchantId": 849,
+    "name": "Enchant Cloak - Lesser Agility"
+  },
+  {
+    "enchantId": 850,
+    "name": "Chest - 35 HP"
+  },
+  {
+    "enchantId": 851,
+    "name": "Enchant Boots - Spirit"
+  },
+  {
+    "enchantId": 852,
+    "name": "Bracers - 5 Sta"
+  },
+  {
+    "enchantId": 854,
+    "name": "Weapon - Elemental"
+  },
+  {
+    "enchantId": 856,
+    "name": "Bracers - 5 Str"
+  },
+  {
+    "enchantId": 857,
+    "name": "Chest - 50 Mana"
+  },
+  {
+    "enchantId": 865,
+    "name": "Gloves - 5 Skinn"
+  },
+  {
+    "enchantId": 866,
+    "name": "Chest - 2 Stats"
+  },
+  {
+    "enchantId": 884,
+    "name": "Cloak - 50 Armor"
+  },
+  {
+    "enchantId": 903,
+    "name": "Cloak - 3 Res"
+  },
+  {
+    "enchantId": 904,
+    "name": "Gloves - 5 Agi"
+  },
+  {
+    "enchantId": 905,
+    "name": "Bracers - 5 Int"
+  },
+  {
+    "enchantId": 906,
+    "name": "Gloves - 5 Mining"
+  },
+  {
+    "enchantId": 907,
+    "name": "Bracers - 7 Spi"
+  },
+  {
+    "enchantId": 908,
+    "name": "Chest - 50 HP"
+  },
+  {
+    "enchantId": 909,
+    "name": "Gloves - 5 Herb"
+  },
+  {
+    "enchantId": 910,
+    "name": "Cloak - Stealth"
+  },
+  {
+    "enchantId": 911,
+    "name": "Boots - Minor Speed"
+  },
+  {
+    "enchantId": 913,
+    "name": "Chest - 65 Mana"
+  },
+  {
+    "enchantId": 923,
+    "name": "Bracers - 3 Def"
+  },
+  {
+    "enchantId": 924,
+    "name": "Bracers - 1 Def"
+  },
+  {
+    "enchantId": 925,
+    "name": "Bracers - 2 Def"
+  },
+  {
+    "enchantId": 927,
+    "name": "Bracers - 7 Str"
+  },
+  {
+    "enchantId": 928,
+    "name": "Chest - 3 Stats"
+  },
+  {
+    "enchantId": 929,
+    "name": "Bracers - 7 Sta"
+  },
+  {
+    "enchantId": 930,
+    "name": "Gloves - Mount Speed"
+  },
+  {
+    "enchantId": 943,
+    "name": "Weapon - 3 Dmg"
+  },
+  {
+    "enchantId": 963,
+    "name": "Weapon - Major Striking"
+  },
+  {
+    "enchantId": 1071,
+    "name": "Shield - Major Stamina"
+  },
+  {
+    "enchantId": 1144,
+    "name": "Chest - Major Spirit"
+  },
+  {
+    "enchantId": 1257,
+    "name": "Greater Arcane Resistance"
+  },
+  {
+    "enchantId": 1441,
+    "name": "Enchant Cloak - Greater Shadow Resistance"
+  },
+  {
+    "enchantId": 1593,
+    "name": "Bracer - Assault"
+  },
+  {
+    "enchantId": 1594,
+    "name": "Assault"
+  },
+  {
+    "enchantId": 1704,
+    "name": "Shield - Thor Spike"
+  },
+  {
+    "enchantId": 1843,
+    "name": "40 Armor"
+  },
+  {
+    "enchantId": 1883,
+    "name": "Bracer - 7 Intellect"
+  },
+  {
+    "enchantId": 1885,
+    "name": "Bracers - 9 Str"
+  },
+  {
+    "enchantId": 1886,
+    "name": "Bracers - 9 Sta"
+  },
+  {
+    "enchantId": 1887,
+    "name": "Gloves - 7 Agi"
+  },
+  {
+    "enchantId": 1888,
+    "name": "Shield - 5 All Resistances"
+  },
+  {
+    "enchantId": 1889,
+    "name": "Cloak - 70 Armor"
+  },
+  {
+    "enchantId": 1891,
+    "name": "Bracer - Stats"
+  },
+  {
+    "enchantId": 1893,
+    "name": "Chest - 100 Mana"
+  },
+  {
+    "enchantId": 1896,
+    "name": "Weapon - 9 Dmg"
+  },
+  {
+    "enchantId": 1897,
+    "name": "Weapon - Superior Striking"
+  },
+  {
+    "enchantId": 1898,
+    "name": "Weapon - Lifesteal"
+  },
+  {
+    "enchantId": 1899,
+    "name": "Weapon - Unholy"
+  },
+  {
+    "enchantId": 1900,
+    "name": "Weapon - Crusader"
+  },
+  {
+    "enchantId": 1903,
+    "name": "Weapon - 9 Spi"
+  },
+  {
+    "enchantId": 1904,
+    "name": "Weapon - 9 Int"
+  },
+  {
+    "enchantId": 1950,
+    "name": "Chest - Defense"
+  },
+  {
+    "enchantId": 2322,
+    "name": "Major Healing"
+  },
+  {
+    "enchantId": 2343,
+    "name": "Major Healing"
+  },
+  {
+    "enchantId": 2443,
+    "name": "Weapon - 7 Frost"
+  },
+  {
+    "enchantId": 2463,
+    "name": "Cloak - 7 FR"
+  },
+  {
+    "enchantId": 2503,
+    "name": "3 Def"
+  },
+  {
+    "enchantId": 2523,
+    "name": "Biznicks 247x128 Accurascope"
+  },
+  {
+    "enchantId": 2564,
+    "name": "Weapon - Agility"
+  },
+  {
+    "enchantId": 2568,
+    "name": "Weapon - 22 Int"
+  },
+  {
+    "enchantId": 2583,
+    "name": "Presence of Might"
+  },
+  {
+    "enchantId": 2584,
+    "name": "Head/Legs - ZG"
+  },
+  {
+    "enchantId": 2585,
+    "name": "Head/Legs - ZG"
+  },
+  {
+    "enchantId": 2586,
+    "name": "Head/Legs - ZG"
+  },
+  {
+    "enchantId": 2587,
+    "name": "Head/Legs - ZG"
+  },
+  {
+    "enchantId": 2588,
+    "name": "Head/Legs - ZG"
+  },
+  {
+    "enchantId": 2589,
+    "name": "Head/Legs - ZG"
+  },
+  {
+    "enchantId": 2590,
+    "name": "Head/Legs - ZG"
+  },
+  {
+    "enchantId": 2591,
+    "name": "Head/Legs - ZG"
+  },
+  {
+    "enchantId": 2604,
+    "name": "Shoulder - ZG"
+  },
+  {
+    "enchantId": 2605,
+    "name": "Zandalar Signet of Mojo"
+  },
+  {
+    "enchantId": 2606,
+    "name": "Shoulder - ZG"
+  },
+  {
+    "enchantId": 2613,
+    "name": "Gloves - Threat"
+  },
+  {
+    "enchantId": 2614,
+    "name": "Gloves - Shadow Power"
+  },
+  {
+    "enchantId": 2617,
+    "name": "Superior Healing"
+  },
+  {
+    "enchantId": 2621,
+    "name": "Enchant Cloak - Subtlety"
+  },
+  {
+    "enchantId": 2622,
+    "name": "Enchant Cloak - Dodge"
+  },
+  {
+    "enchantId": 2646,
+    "name": "Weapon - 25 Agi"
+  },
+  {
+    "enchantId": 2647,
+    "name": "Bracer - Brawn"
+  },
+  {
+    "enchantId": 2648,
+    "name": "Major Defense"
+  },
+  {
+    "enchantId": 2649,
+    "name": "Enchant Boots - Fortitude"
+  },
+  {
+    "enchantId": 2650,
+    "name": "Bracer - Spellpower"
+  },
+  {
+    "enchantId": 2654,
+    "name": "Shield - Intellect"
+  },
+  {
+    "enchantId": 2656,
+    "name": "Enchant Boots - Vitality"
+  },
+  {
+    "enchantId": 2657,
+    "name": "Enchant Boots - Dexterity"
+  },
+  {
+    "enchantId": 2658,
+    "name": "Enchant Boots - Surefooted"
+  },
+  {
+    "enchantId": 2659,
+    "name": "Chest - Exceptional Health"
+  },
+  {
+    "enchantId": 2660,
+    "name": "Chest - Exceptional Mana"
+  },
+  {
+    "enchantId": 2661,
+    "name": "Chest - Exceptional Stats"
+  },
+  {
+    "enchantId": 2662,
+    "name": "Major Armor"
+  },
+  {
+    "enchantId": 2664,
+    "name": "Major Resistance"
+  },
+  {
+    "enchantId": 2666,
+    "name": "Weapon - Major Intellect"
+  },
+  {
+    "enchantId": 2667,
+    "name": "Savagery"
+  },
+  {
+    "enchantId": 2668,
+    "name": "Potency"
+  },
+  {
+    "enchantId": 2669,
+    "name": "Weapon - Major Spellpower"
+  },
+  {
+    "enchantId": 2670,
+    "name": "2H Weapon - Major Agility"
+  },
+  {
+    "enchantId": 2671,
+    "name": "Sunfire"
+  },
+  {
+    "enchantId": 2672,
+    "name": "Soulfrost"
+  },
+  {
+    "enchantId": 2673,
+    "name": "Weapon - Mongoose"
+  },
+  {
+    "enchantId": 2674,
+    "name": "Spellsurge"
+  },
+  {
+    "enchantId": 2675,
+    "name": "Battlemaster"
+  },
+  {
+    "enchantId": 2679,
+    "name": "Restore Mana Prime"
+  },
+  {
+    "enchantId": 2716,
+    "name": "Fortitude of the Scourge"
+  },
+  {
+    "enchantId": 2717,
+    "name": "Might of the Scourge"
+  },
+  {
+    "enchantId": 2721,
+    "name": "Power of the Scourge"
+  },
+  {
+    "enchantId": 2722,
+    "name": "Adamantite Scope"
+  },
+  {
+    "enchantId": 2723,
+    "name": "Khorium Scope"
+  },
+  {
+    "enchantId": 2724,
+    "name": "Stabilized Eternium Scope"
+  },
+  {
+    "enchantId": 2745,
+    "name": "Silver Spellthread"
+  },
+  {
+    "enchantId": 2746,
+    "name": "Golden Spellthread"
+  },
+  {
+    "enchantId": 2747,
+    "name": "Mystic Spellthread"
+  },
+  {
+    "enchantId": 2748,
+    "name": "Runic Spellthread"
+  },
+  {
+    "enchantId": 2792,
+    "name": "Knothide Kit"
+  },
+  {
+    "enchantId": 2841,
+    "name": "Heavy Knothide Kit"
+  },
+  {
+    "enchantId": 2928,
+    "name": "Ring - Spellpower"
+  },
+  {
+    "enchantId": 2929,
+    "name": "Ring - Striking"
+  },
+  {
+    "enchantId": 2930,
+    "name": "Healing Power"
+  },
+  {
+    "enchantId": 2931,
+    "name": "Ring - Stats"
+  },
+  {
+    "enchantId": 2933,
+    "name": "Chest - Major Resilience"
+  },
+  {
+    "enchantId": 2934,
+    "name": "Blasting"
+  },
+  {
+    "enchantId": 2935,
+    "name": "Gloves - Spell Strike"
+  },
+  {
+    "enchantId": 2937,
+    "name": "Gloves - Major Spellpower"
+  },
+  {
+    "enchantId": 2938,
+    "name": "Enchant Cloak - Spell Penetration"
+  },
+  {
+    "enchantId": 2939,
+    "name": "Enchant Boots - Cat's Swiftness"
+  },
+  {
+    "enchantId": 2940,
+    "name": "Enchant Boots - Boar's Speed"
+  },
+  {
+    "enchantId": 2977,
+    "name": "Inscription of Warding"
+  },
+  {
+    "enchantId": 2978,
+    "name": "Greater Inscription of Warding"
+  },
+  {
+    "enchantId": 2979,
+    "name": "Inscription of Faith"
+  },
+  {
+    "enchantId": 2980,
+    "name": "Greater Inscription of Faith"
+  },
+  {
+    "enchantId": 2981,
+    "name": "Inscription of Discipline"
+  },
+  {
+    "enchantId": 2982,
+    "name": "Greater Inscription of Discipline"
+  },
+  {
+    "enchantId": 2983,
+    "name": "Inscription of Vengeance"
+  },
+  {
+    "enchantId": 2986,
+    "name": "Greater Inscription of Vengeance"
+  },
+  {
+    "enchantId": 2987,
+    "name": "Frost Armor Kit"
+  },
+  {
+    "enchantId": 2988,
+    "name": "Nature Armor Kit"
+  },
+  {
+    "enchantId": 2990,
+    "name": "Inscription of the Knight"
+  },
+  {
+    "enchantId": 2991,
+    "name": "Greater Inscription of the Knight"
+  },
+  {
+    "enchantId": 2992,
+    "name": "Inscription of the Oracle"
+  },
+  {
+    "enchantId": 2993,
+    "name": "Greater Inscription of the Oracle"
+  },
+  {
+    "enchantId": 2994,
+    "name": "Inscription of the Orb"
+  },
+  {
+    "enchantId": 2995,
+    "name": "Greater Inscription of the Orb"
+  },
+  {
+    "enchantId": 2996,
+    "name": "Inscription of the Blade"
+  },
+  {
+    "enchantId": 2997,
+    "name": "Greater Inscription of the Blade"
+  },
+  {
+    "enchantId": 2998,
+    "name": "Inscription of Endurance"
+  },
+  {
+    "enchantId": 2999,
+    "name": "Glyph of the Defender"
+  },
+  {
+    "enchantId": 3001,
+    "name": "Glyph of Renewal"
+  },
+  {
+    "enchantId": 3002,
+    "name": "Glyph of Power"
+  },
+  {
+    "enchantId": 3003,
+    "name": "Glyph of Ferocity"
+  },
+  {
+    "enchantId": 3004,
+    "name": "Glyph of the Gladiator"
+  },
+  {
+    "enchantId": 3005,
+    "name": "Glyph of Nature Warding"
+  },
+  {
+    "enchantId": 3006,
+    "name": "Glyph of Arcane Warding"
+  },
+  {
+    "enchantId": 3007,
+    "name": "Glyph of Fire Warding"
+  },
+  {
+    "enchantId": 3008,
+    "name": "Glyph of Frost Warding"
+  },
+  {
+    "enchantId": 3009,
+    "name": "Glyph of Shadow Warding"
+  },
+  {
+    "enchantId": 3010,
+    "name": "Cobrahide Leg Armor"
+  },
+  {
+    "enchantId": 3011,
+    "name": "Clefthide Leg Armor"
+  },
+  {
+    "enchantId": 3012,
+    "name": "Nethercobra Leg Armor"
+  },
+  {
+    "enchantId": 3013,
+    "name": "Nethercleft Leg Armor"
+  },
+  {
+    "enchantId": 3096,
+    "name": "Glyph of the Outcast"
+  },
+  {
+    "enchantId": 3150,
+    "name": "Chest - Restore Mana Prime"
+  },
+  {
+    "enchantId": 3222,
+    "name": "Weapon - Greater Agility"
+  },
+  {
+    "enchantId": 3223,
+    "name": "Adamantite Weapon Chain"
+  },
+  {
+    "enchantId": 3225,
+    "name": "Weapon - Executioner"
+  },
+  {
+    "enchantId": 3229,
+    "name": "Shield - Resilience"
+  },
+  {
+    "enchantId": 3260,
+    "name": "Glove Reinforcements"
+  },
+  {
+    "enchantId": 3269,
+    "name": "High Test Eternium Fishing Line"
+  },
+  {
+    "enchantId": 3273,
+    "name": "Deathfrost"
+  }
+]

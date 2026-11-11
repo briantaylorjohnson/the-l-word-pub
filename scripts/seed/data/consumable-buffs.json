@@ -1,0 +1,628 @@
+[
+  {
+    "spellId": 10667,
+    "category": "battleElixir"
+  },
+  {
+    "spellId": 10669,
+    "category": "battleElixir"
+  },
+  {
+    "spellId": 11334,
+    "category": "battleElixir"
+  },
+  {
+    "spellId": 11405,
+    "category": "battleElixir"
+  },
+  {
+    "spellId": 11406,
+    "category": "battleElixir"
+  },
+  {
+    "spellId": 11474,
+    "category": "battleElixir"
+  },
+  {
+    "spellId": 16323,
+    "category": "battleElixir"
+  },
+  {
+    "spellId": 16329,
+    "category": "battleElixir"
+  },
+  {
+    "spellId": 17038,
+    "category": "battleElixir"
+  },
+  {
+    "spellId": 17537,
+    "category": "battleElixir"
+  },
+  {
+    "spellId": 17538,
+    "category": "battleElixir"
+  },
+  {
+    "spellId": 17539,
+    "category": "battleElixir"
+  },
+  {
+    "spellId": 26276,
+    "category": "battleElixir"
+  },
+  {
+    "spellId": 28490,
+    "category": "battleElixir"
+  },
+  {
+    "spellId": 28491,
+    "category": "battleElixir"
+  },
+  {
+    "spellId": 28493,
+    "category": "battleElixir"
+  },
+  {
+    "spellId": 28497,
+    "category": "battleElixir"
+  },
+  {
+    "spellId": 28501,
+    "category": "battleElixir"
+  },
+  {
+    "spellId": 28503,
+    "category": "battleElixir"
+  },
+  {
+    "spellId": 33720,
+    "category": "battleElixir"
+  },
+  {
+    "spellId": 33721,
+    "category": "battleElixir"
+  },
+  {
+    "spellId": 33726,
+    "category": "battleElixir"
+  },
+  {
+    "spellId": 38954,
+    "category": "battleElixir"
+  },
+  {
+    "spellId": 45373,
+    "category": "battleElixir"
+  },
+  {
+    "spellId": 45374,
+    "category": "battleElixir"
+  },
+  {
+    "spellId": 10668,
+    "category": "guardianElixir"
+  },
+  {
+    "spellId": 10692,
+    "category": "guardianElixir"
+  },
+  {
+    "spellId": 10693,
+    "category": "guardianElixir"
+  },
+  {
+    "spellId": 11348,
+    "category": "guardianElixir"
+  },
+  {
+    "spellId": 11371,
+    "category": "guardianElixir"
+  },
+  {
+    "spellId": 11374,
+    "category": "guardianElixir"
+  },
+  {
+    "spellId": 11396,
+    "category": "guardianElixir"
+  },
+  {
+    "spellId": 17535,
+    "category": "guardianElixir"
+  },
+  {
+    "spellId": 24361,
+    "category": "guardianElixir"
+  },
+  {
+    "spellId": 24363,
+    "category": "guardianElixir"
+  },
+  {
+    "spellId": 24382,
+    "category": "guardianElixir"
+  },
+  {
+    "spellId": 24383,
+    "category": "guardianElixir"
+  },
+  {
+    "spellId": 24417,
+    "category": "guardianElixir"
+  },
+  {
+    "spellId": 28502,
+    "category": "guardianElixir"
+  },
+  {
+    "spellId": 28509,
+    "category": "guardianElixir"
+  },
+  {
+    "spellId": 28514,
+    "category": "guardianElixir"
+  },
+  {
+    "spellId": 30003,
+    "category": "guardianElixir"
+  },
+  {
+    "spellId": 39625,
+    "category": "guardianElixir"
+  },
+  {
+    "spellId": 39626,
+    "category": "guardianElixir"
+  },
+  {
+    "spellId": 39627,
+    "category": "guardianElixir"
+  },
+  {
+    "spellId": 39628,
+    "category": "guardianElixir"
+  },
+  {
+    "spellId": 17626,
+    "category": "flask"
+  },
+  {
+    "spellId": 17627,
+    "category": "flask"
+  },
+  {
+    "spellId": 17628,
+    "category": "flask"
+  },
+  {
+    "spellId": 17629,
+    "category": "flask"
+  },
+  {
+    "spellId": 28518,
+    "category": "flask"
+  },
+  {
+    "spellId": 28519,
+    "category": "flask"
+  },
+  {
+    "spellId": 28520,
+    "category": "flask"
+  },
+  {
+    "spellId": 28521,
+    "category": "flask"
+  },
+  {
+    "spellId": 28540,
+    "category": "flask"
+  },
+  {
+    "spellId": 40576,
+    "category": "flask"
+  },
+  {
+    "spellId": 40577,
+    "category": "flask"
+  },
+  {
+    "spellId": 40579,
+    "category": "flask"
+  },
+  {
+    "spellId": 40580,
+    "category": "flask"
+  },
+  {
+    "spellId": 40582,
+    "category": "flask"
+  },
+  {
+    "spellId": 40586,
+    "category": "flask"
+  },
+  {
+    "spellId": 40587,
+    "category": "flask"
+  },
+  {
+    "spellId": 40588,
+    "category": "flask"
+  },
+  {
+    "spellId": 40763,
+    "category": "flask"
+  },
+  {
+    "spellId": 41604,
+    "category": "flask"
+  },
+  {
+    "spellId": 41605,
+    "category": "flask"
+  },
+  {
+    "spellId": 41606,
+    "category": "flask"
+  },
+  {
+    "spellId": 41607,
+    "category": "flask"
+  },
+  {
+    "spellId": 42735,
+    "category": "flask"
+  },
+  {
+    "spellId": 46838,
+    "category": "flask"
+  },
+  {
+    "spellId": 46840,
+    "category": "flask"
+  },
+  {
+    "spellId": 19705,
+    "category": "food"
+  },
+  {
+    "spellId": 19706,
+    "category": "food"
+  },
+  {
+    "spellId": 19708,
+    "category": "food"
+  },
+  {
+    "spellId": 19709,
+    "category": "food"
+  },
+  {
+    "spellId": 19710,
+    "category": "food"
+  },
+  {
+    "spellId": 19711,
+    "category": "food"
+  },
+  {
+    "spellId": 22730,
+    "category": "food"
+  },
+  {
+    "spellId": 22731,
+    "category": "food"
+  },
+  {
+    "spellId": 24799,
+    "category": "food"
+  },
+  {
+    "spellId": 24870,
+    "category": "food"
+  },
+  {
+    "spellId": 25660,
+    "category": "food"
+  },
+  {
+    "spellId": 25661,
+    "category": "food"
+  },
+  {
+    "spellId": 25694,
+    "category": "food"
+  },
+  {
+    "spellId": 25804,
+    "category": "food"
+  },
+  {
+    "spellId": 25941,
+    "category": "food"
+  },
+  {
+    "spellId": 33254,
+    "category": "food"
+  },
+  {
+    "spellId": 33256,
+    "category": "food"
+  },
+  {
+    "spellId": 33257,
+    "category": "food"
+  },
+  {
+    "spellId": 33259,
+    "category": "food"
+  },
+  {
+    "spellId": 33261,
+    "category": "food"
+  },
+  {
+    "spellId": 33263,
+    "category": "food"
+  },
+  {
+    "spellId": 33265,
+    "category": "food"
+  },
+  {
+    "spellId": 33268,
+    "category": "food"
+  },
+  {
+    "spellId": 35272,
+    "category": "food"
+  },
+  {
+    "spellId": 40323,
+    "category": "food"
+  },
+  {
+    "spellId": 42293,
+    "category": "food"
+  },
+  {
+    "spellId": 43730,
+    "category": "food"
+  },
+  {
+    "spellId": 43731,
+    "category": "food"
+  },
+  {
+    "spellId": 43733,
+    "category": "food"
+  },
+  {
+    "spellId": 43764,
+    "category": "food"
+  },
+  {
+    "spellId": 43771,
+    "category": "food"
+  },
+  {
+    "spellId": 44097,
+    "category": "food"
+  },
+  {
+    "spellId": 44098,
+    "category": "food"
+  },
+  {
+    "spellId": 44099,
+    "category": "food"
+  },
+  {
+    "spellId": 44100,
+    "category": "food"
+  },
+  {
+    "spellId": 44101,
+    "category": "food"
+  },
+  {
+    "spellId": 44102,
+    "category": "food"
+  },
+  {
+    "spellId": 44103,
+    "category": "food"
+  },
+  {
+    "spellId": 44104,
+    "category": "food"
+  },
+  {
+    "spellId": 44105,
+    "category": "food"
+  },
+  {
+    "spellId": 44106,
+    "category": "food"
+  },
+  {
+    "spellId": 45245,
+    "category": "food"
+  },
+  {
+    "spellId": 45619,
+    "category": "food"
+  },
+  {
+    "spellId": 46682,
+    "category": "food"
+  },
+  {
+    "spellId": 46687,
+    "category": "food"
+  },
+  {
+    "spellId": 46899,
+    "category": "food"
+  },
+  {
+    "spellId": 43722,
+    "category": "food"
+  },
+  {
+    "spellId": 21149,
+    "category": "food"
+  },
+  {
+    "spellId": 33077,
+    "category": "scroll",
+    "note": "Agi"
+  },
+  {
+    "spellId": 33078,
+    "category": "scroll",
+    "note": "Int"
+  },
+  {
+    "spellId": 33079,
+    "category": "scroll",
+    "note": "Prot"
+  },
+  {
+    "spellId": 33080,
+    "category": "scroll",
+    "note": "Spi"
+  },
+  {
+    "spellId": 33081,
+    "category": "scroll",
+    "note": "Sta"
+  },
+  {
+    "spellId": 33082,
+    "category": "scroll",
+    "note": "Str"
+  },
+  {
+    "spellId": 12174,
+    "category": "scroll",
+    "note": "Agi*"
+  },
+  {
+    "spellId": 8117,
+    "category": "scroll",
+    "note": "Agi*"
+  },
+  {
+    "spellId": 8116,
+    "category": "scroll",
+    "note": "Agi*"
+  },
+  {
+    "spellId": 8115,
+    "category": "scroll",
+    "note": "Agi*"
+  },
+  {
+    "spellId": 12176,
+    "category": "scroll",
+    "note": "Int*"
+  },
+  {
+    "spellId": 8098,
+    "category": "scroll",
+    "note": "Int*"
+  },
+  {
+    "spellId": 8097,
+    "category": "scroll",
+    "note": "Int*"
+  },
+  {
+    "spellId": 8096,
+    "category": "scroll",
+    "note": "Int*"
+  },
+  {
+    "spellId": 12175,
+    "category": "scroll",
+    "note": "Prot*"
+  },
+  {
+    "spellId": 8095,
+    "category": "scroll",
+    "note": "Prot*"
+  },
+  {
+    "spellId": 8094,
+    "category": "scroll",
+    "note": "Prot*"
+  },
+  {
+    "spellId": 8091,
+    "category": "scroll",
+    "note": "Prot*"
+  },
+  {
+    "spellId": 12177,
+    "category": "scroll",
+    "note": "Spi*"
+  },
+  {
+    "spellId": 8114,
+    "category": "scroll",
+    "note": "Spi*"
+  },
+  {
+    "spellId": 8113,
+    "category": "scroll",
+    "note": "Spi*"
+  },
+  {
+    "spellId": 8112,
+    "category": "scroll",
+    "note": "Spi*"
+  },
+  {
+    "spellId": 12178,
+    "category": "scroll",
+    "note": "Sta*"
+  },
+  {
+    "spellId": 8101,
+    "category": "scroll",
+    "note": "Sta*"
+  },
+  {
+    "spellId": 8100,
+    "category": "scroll",
+    "note": "Sta*"
+  },
+  {
+    "spellId": 8099,
+    "category": "scroll",
+    "note": "Sta*"
+  },
+  {
+    "spellId": 12179,
+    "category": "scroll",
+    "note": "Str*"
+  },
+  {
+    "spellId": 8120,
+    "category": "scroll",
+    "note": "Str*"
+  },
+  {
+    "spellId": 8119,
+    "category": "scroll",
+    "note": "Str*"
+  },
+  {
+    "spellId": 8118,
+    "category": "scroll",
+    "note": "Str*"
+  }
+]
