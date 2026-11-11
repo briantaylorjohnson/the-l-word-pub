@@ -1,7 +1,8 @@
 # Third-party notices
 
-This project's own code is MIT-licensed (see [`LICENSE`](LICENSE)). The following third-party material
-is used or included, and remains under its owners' terms.
+This project's own code and documentation are MIT-licensed (see [`LICENSE`](LICENSE)). That license does not
+cover third-party assets, notably the Nucleo icon font. The following third-party material is used or
+included, and remains under its owners' terms.
 
 ## Nucleo icon font
 - **What:** the icon font in `src/assets/plugins/nucleo/` (CSS, `.eot`/`.svg`/`.ttf`/`.woff`/`.woff2`).
